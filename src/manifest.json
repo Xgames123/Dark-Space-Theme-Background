@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Dark space theme background",
+    "version": "1.0",
+    "description": "Adds the background from the dark space theme to sites",
+    "content_scripts": [
+        {
+          "js": ["scripts/content.js"],
+          "matches": [
+            "https://*/*",
+            "http://*/*"
+          ]
+        }
+    ]
+  }
