@@ -11,5 +11,11 @@
             "http://*/*"
           ]
         }
-    ]
+    ],
+	"browser_specific_settings": {
+	  "gecko": {
+		"id": "DarkSpaceBackground@XGames105"
+	  }
+	}
+
   }
