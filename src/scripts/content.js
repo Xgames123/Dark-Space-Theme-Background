@@ -30,7 +30,7 @@ function TransformElement(element){
 	if (rgb != undefined && rgb.r < 140 && rgb.g < 140 && rgb.b < 140 ){
 		
 		console.log("set bg")
-		element.style.background = "url(https://raw.githubusercontent.com/Xgames123/Dark-Space-Theme-Background/main/src/img/background.gif)"
+		element.style.background = "url(https://raw.githubusercontent.com/Xgames123/Dark-Space-Theme-Background/main/assets/background.gif)"
 	}
 }
 
