@@ -12,6 +12,11 @@
           ]
         }
     ],
+	"icons": {
+	  "48": "img/icon-48.png",
+	  "96": "img/icon-96.png"
+	},
+
 	"browser_specific_settings": {
 	  "gecko": {
 		"id": "DarkSpaceBackground@XGames105"
